@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=CloudMigration
+PRODUCT_BUNDLE_IDENTIFIER=com.example.cloudmigration.CloudMigration$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
